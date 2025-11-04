@@ -4,6 +4,7 @@ You are the CEO of a scrappy extraction empire. This repo contains a complete Vi
 
 ## Quick start
 
+
 ```bash
 npm install
 npm run dev
